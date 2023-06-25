@@ -15,7 +15,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  Contato:
+  Contact me:
 </head>
 <body>
   <div>
