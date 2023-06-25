@@ -6,4 +6,7 @@
 - 👩🏻 I’m 20yo
 - 🌎 I'm living in Belo Horizonte, Brazil
 
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarahellen)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
