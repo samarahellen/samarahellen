@@ -15,7 +15,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Meu Contato</title>
+  Contato:
 </head>
 <body>
   <div>
