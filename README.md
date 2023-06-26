@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 💻 I'm currently studying computer engineering
 - ⚡ I'm an electrical technician
