@@ -2,8 +2,8 @@
 
 - 💻 I'm currently studying computer engineering
 - ⚡ I'm an electrical technician
-- 📘 I'm currently learning about web development and c#
-- 👩🏻 I’m 20yo
+- 📘 I currently work as an intern in Stellantis
+- 👩🏻 I’m 21yo
 - 🌎 I'm living in Belo Horizonte, Brazil
 
 
