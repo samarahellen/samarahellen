@@ -3,7 +3,7 @@
 - 💻 I'm currently studying computer engineering
 - ⚡ I'm an electrical technician
 - 📘 I currently work as an intern in Stellantis
-- 👩🏻 I’m 21yo
+- 👩🏻 I’m 22yo
 - 🌎 I'm living in Belo Horizonte, Brazil
 
 
